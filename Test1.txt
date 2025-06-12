@@ -1,1 +1,2 @@
 Test string (modified on 12/06)
+Test string (new feature)
